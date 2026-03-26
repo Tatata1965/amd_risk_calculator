@@ -1,0 +1,9 @@
+Возраст_лет
+ЦТС foveola
+ЦТС sup.inner fovea
+ЦТС sup.out. fovea
+average volume
+CME localisation_bin
+Fibrovascular RPE detachment localisation_bin
+Druses localisation_bin
+гиперрефлективный материал локализация_bin
